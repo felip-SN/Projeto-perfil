@@ -20,12 +20,27 @@ main{
     border-radius: 5px;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
 .btn{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     gap: 10px;
+}
+
+.btn{
+    width: 250px;
+    padding: 10px;
+
+    background-color: black;
+    border: 1px solid blue;
+    color: white;
+    border-radius: 5px;   
 }
 
 button {
